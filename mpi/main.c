@@ -1,6 +1,6 @@
 /*
  * ============================================================
- * TeamNoX-D3 — MPI Matrix Multiplication
+ * TeamNo6-D3 — MPI Matrix Multiplication
  * ============================================================
  * Proyecto universitario: Multiplicación de matrices NxN en
  * paralelo usando MPI con tiling local, operaciones colectivas
@@ -360,7 +360,7 @@ int main(int argc, char *argv[])
      * ──────────────────────────────────────── */
     if (rank == 0) {
         printf("==============================================\n");
-        printf("  MPI Matrix Multiplication — TeamNoX-D3\n");
+        printf("  MPI Matrix Multiplication — TeamNo6-D3\n");
         printf("==============================================\n");
         printf("  N          : %d\n", N);
         printf("  Procesos   : %d\n", size);

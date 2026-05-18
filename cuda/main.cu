@@ -1,6 +1,6 @@
 /*
  * ============================================================
- * TeamNoX-D3 — CUDA Matrix Multiplication
+ * TeamNo6-D3 — CUDA Matrix Multiplication
  * ============================================================
  * Proyecto universitario: Multiplicación de matrices NxN en
  * GPU usando CUDA C con:
@@ -366,7 +366,7 @@ int main(void)
      * REPORTE
      * ───────────────────────────────────────────── */
     printf("==============================================\n");
-    printf("  CUDA Matrix Multiplication — TeamNoX-D3\n");
+    printf("  CUDA Matrix Multiplication — TeamNo6-D3\n");
     printf("==============================================\n");
     printf("  N          : %d\n", N);
     printf("  TILE_SIZE  : %d\n", TILE_SIZE);
